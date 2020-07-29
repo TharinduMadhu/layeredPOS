@@ -29,7 +29,6 @@ public class AppInitializer extends Application {
         primaryStage.setTitle("JDBC POS");
         primaryStage.centerOnScreen();
         primaryStage.show();
-
     }
 }
 
