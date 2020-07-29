@@ -31,4 +31,3 @@ public class AppInitializer extends Application {
         primaryStage.show();
     }
 }
-
